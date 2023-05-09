@@ -1,0 +1,25 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+body{
+  background-color: #efefef;
+}
+h1{
+  align-self: center;
+}
+.head{
+  background-color: #fff;
+  margin: 10px;
+  padding: 10px;
+  border-radius: 5px;
+}
+.button{
+  background-color: #8f887d;
+  margin: 15px, 15px;
+  padding: 5px;
+  color: #fff;
+  text-decoration: none;
+  border-radius: 5px;
+}
